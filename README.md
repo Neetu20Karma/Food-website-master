@@ -4,7 +4,7 @@
 This is the Food Web Application 
 
 
-This WebSite is live -  http://foodworldav.epizy.com/
+This WebSite is live -  https://foodwebsitemaster.netlify.app/
 
 
 
